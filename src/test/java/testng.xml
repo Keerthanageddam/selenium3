@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="Suite">
+	<parameter>
+		
+	</parameter>
+  <test name="Test">
+    <classes>
+      <class name="com.testngpackage.NewTest"/>
+         <class name="com.testngpackage.NewTest"/>
+         <class name="com.testngpackage.NewTest"/>
+         <class name="com.testngpackage.NewTest"/>
+    </classes>
+  </test> <!-- Test -->
+  <test name="test2">
+	  <classes>
+		     <class name="com.testngpackage.NewTest"/>
+		     <class name="com.testngpackage.NewTest"/>
+		     <class name="com.testngpackage.NewTest"/>
+		     <class name="com.testngpackage.NewTest"/>
+	  </classes>
+  </test>
+  
+  
+  
+</suite> <!-- Suite -->
